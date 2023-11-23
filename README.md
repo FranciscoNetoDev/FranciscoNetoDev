@@ -1,8 +1,10 @@
 # *👋 Hello! Welcome to my Github profile.*
 ## My name is Francisco and my nickname is "Neto"!
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-<br><br>
+<div>
+  <a href="https://github.com/FranciscoNetoDev">
+  <img loading="lazy" width="55%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoNetoDev&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img loading="lazy" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoNetoDev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+</div>
 
 ## About Me
 
@@ -32,14 +34,6 @@
 **🤝 Shall we connect, Francisco Neto? I'm excited to expand my network and exchange inspiring ideas in this early phase of my career!**
 
 ## Tools and Technologies
-<div>
-  <a href="https://github.com/FranciscoNetoDev">
-  <img loading="lazy" width="55%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoNetoDev&layout=compact&langs_count=7&theme=gruvbox"/>
-  <img loading="lazy" width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoNetoDev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-</div>
-
-
-
 
 <div>
   <img loading="lazy" margin="4px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  height="40" width="40" />
